@@ -3,3 +3,4 @@ Druga linia
 Dodanie
 Nowa linia
 test
+nastepna linia
